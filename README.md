@@ -159,8 +159,3 @@ This dashboard helps businesses:
 - Power BI Service Deployment
 - Automated Data Refresh
 - Customer Segmentation Analysis
-
----
-
-
-This project is for educational and portfolio purposes.
